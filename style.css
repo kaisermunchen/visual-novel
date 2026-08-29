@@ -1,1 +1,11 @@
+html, body {
+  margin: 50;
+  padding: 15;
+  color: white;
+  background-color: pink;
+  
+}
+canvas {
+  display: block;
+}
 
